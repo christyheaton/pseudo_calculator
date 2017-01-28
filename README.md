@@ -7,9 +7,13 @@ python pseudo_calculator.py
 Once running, you can call a url like the samples above and see the results
 
 Sample URLS:
+
 http://localhost:8090/positive/5 ==> True
+
 http://localhost:8090/positive/-5 ==> False
+
 http://localhost:8090/negative/87 ==> False
+
 http://localhost:8090/negative/-53 ==> True
 
 
